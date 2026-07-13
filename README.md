@@ -61,8 +61,27 @@ SRS_Document.pdf
 
  README.md
 
-Conclusion
+ 
+ Week 2 – Entity and Relationship Analysis
 
-This repository contains the complete Week 1 documentation for the **E-Commerce Order Management Database System**. The documents serve as the foundation for database design and software development by clearly defining the business requirements and software specifications.
+ Project Title
+
+E-Commerce Order Management Database System
+
+README
+
+This folder contains the Week 2 deliverables for the  E-Commerce Order Management Database System.
+
+ Documents Included
+
+Entity_Analysis_Report.pdf– Contains the identification of entities, their attributes, Primary Keys (PK), Foreign Keys (FK), and entity analysis.
+
+Entity_Relationship_Analysis.pdf – Contains relationship analysis, relationship summary, cardinality analysis, benefits of relationship analysis, and conclusion.
+
+README.md – Overview of the Week 2 submission.
+
+The documents in this folder were prepared based on the Week 1 Software Requirement Specification (SRS), Business Requirement Document (BRD), and Requirement Analysis Report.
+
+
 
 
