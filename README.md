@@ -82,6 +82,27 @@ README.md – Overview of the Week 2 submission.
 
 The documents in this folder were prepared based on the Week 1 Software Requirement Specification (SRS), Business Requirement Document (BRD), and Requirement Analysis Report.
 
+Week 3
+
+Project Title
+E-Commerce Order Management Database System
+
+Student Name
+M. Joy Shinola
+
+Register Number
+2546022
+
+Course
+Bachelor of Computer Applications (BCA)
+
+Week Number
+Week 3
+
+Brief Description
+
+This project presents the Entity Relationship (ER) Diagram and Relational Schema for the E-Commerce Order Management Database System. The ER Diagram represents the entities, attributes, relationships, primary keys, foreign keys, and cardinality involved in managing customers, orders, products, payments, and shipments. The Relational Schema converts the ER model into database tables that can be implemented in a relational database management system.
+
 
 
 
